@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cronometro</string>
+    <string name="finalTime">El tiempo final es:</string>
+    <string name="finalTimeResult">0</string>
+    <string name="playPauseButton">PlayPauseButton</string>
+    <string name="stopButton">StopButton</string>
+    <string name="deathButton">DeathButton</string>
+</resources>
