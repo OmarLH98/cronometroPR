@@ -117,6 +117,7 @@ public class Cronometro extends AppCompatActivity {
                     isPlay = false;
                     isDeath = false;
                     deathCounter = 0;
+                    //goajfnoafdn armando es puto
             }
         });
 
